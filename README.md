@@ -1,8 +1,8 @@
-ADR Reporting & Documentation: Task 2
+# ADR Reporting & Documentation: Task 2
 
 Structured adverse drug reaction (ADR) report based on the given case scenario.
 
-1. Patient Information
+## 1. Patient Information
 | Field | Entry |
 |-------|-------|
 | Patient identifier | Withheld for confidentiality |
@@ -10,7 +10,7 @@ Structured adverse drug reaction (ADR) report based on the given case scenario.
 | Sex | Female |
 | Weight | Not provided |
 
-2. Suspected Medicine
+## 2. Suspected Medicine
 | Field | Entry |
 |-------|-------|
 | Medicine name | Amoxicillin |
@@ -19,7 +19,7 @@ Structured adverse drug reaction (ADR) report based on the given case scenario.
 | Start date | Day -5 (5 days before the report) |
 | Concomitant medicine | Paracetamol, taken as needed |
 
-3. Adverse Reaction
+## 3. Adverse Reaction
 | Field | Entry |
 |-------|-------|
 | Reaction / event | Rash, itching, nausea, and dizziness |
@@ -28,7 +28,7 @@ Structured adverse drug reaction (ADR) report based on the given case scenario.
 | Outcome | Not recovered / ongoing |
 | Seriousness | Non-serious, based on the information available. This should be reassessed if swelling of the lips or face, breathing difficulty, blistering, mucosal involvement, fever, or low blood pressure is found. |
 
-4. Reporter Information
+## 4. Reporter Information
 | Field | Entry |
 |-------|-------|
 | Name | Newlove Kwame |
@@ -36,18 +36,18 @@ Structured adverse drug reaction (ADR) report based on the given case scenario.
 | Contact | [Add your email or phone number] |
 | Healthcare institution | [Add your institution] |
 
-5. Additional Information
-Suspected reaction: Hypersensitivity reaction to amoxicillin (rash with urticaria-type itching).
+## 5. Additional Information
+**Suspected reaction:** Hypersensitivity reaction to amoxicillin (rash with urticaria-type itching).
 
-Timeline: Day -5 amoxicillin started, Day -2 symptoms began, Day 0 symptoms persist.
+**Timeline:** Day -5 amoxicillin started, Day -2 symptoms began, Day 0 symptoms persist.
 
-Causality assessment: Naranjo score is 3 (Possible). WHO-UMC category is Possible. Both would upgrade to Probable if symptoms improve after stopping amoxicillin (positive dechallenge) and no other cause is found.
+**Causality assessment:** Naranjo score is 3 (Possible). WHO-UMC category is Possible. Both would upgrade to Probable if symptoms improve after stopping amoxicillin (positive dechallenge) and no other cause is found.
 
-Dechallenge / rechallenge: Dechallenge result not yet known. Rechallenge not done and not advised.
+**Dechallenge / rechallenge:** Dechallenge result not yet known. Rechallenge not done and not advised.
 
-Other possible causes: Viral exanthem, the underlying infection being treated, and other new medicines, foods, or supplements. Paracetamol is an unlikely cause, since it is taken only as needed and rash from it is uncommon.
+**Other possible causes:** Viral exanthem, the underlying infection being treated, and other new medicines, foods, or supplements. Paracetamol is an unlikely cause, since it is taken only as needed and rash from it is uncommon.
 
-Action taken / recommended:
+**Action taken / recommended:**
 1. Assess severity (airway, angioedema, blistering, mucosal involvement, fever) and check vital signs.
 2. Discontinue amoxicillin and use a non-beta-lactam alternative if an antibiotic is still needed.
 3. Give symptomatic treatment (such as an antihistamine) and monitor for improvement.
