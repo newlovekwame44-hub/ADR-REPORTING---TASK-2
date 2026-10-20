@@ -33,8 +33,8 @@ Structured adverse drug reaction (ADR) report based on the given case scenario.
 |-------|-------|
 | Name | Newlove Kwame |
 | Designation | Doctor of Pharmacy (PharmD) |
-| Contact | [Add your email or phone number] |
-| Healthcare institution | [Add your institution] |
+| Contact | [newlovekwame44@gmail.com] |
+| Healthcare institution | [Sunyani Teaching Hospital] |
 
 ## 5. Additional Information
 **Suspected reaction:** Hypersensitivity reaction to amoxicillin (rash with urticaria-type itching).
